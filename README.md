@@ -1,4 +1,4 @@
-📈 TCS Stock Price Prediction
+**📈 TCS Stock Price Prediction**
 
 This project focuses on analyzing and predicting the stock price of Tata Consultancy Services (TCS) using a combination of data analysis, visualization, and machine learning techniques.
 
