@@ -1,8 +1,7 @@
 **📈 TCS Stock Price Prediction**
 
 This project focuses on analyzing and predicting the stock price of Tata Consultancy Services (TCS) using a combination of data analysis, visualization, and machine learning techniques.
-
-🔍 Project Overview
+**🔍 Project Overview**
 
 Cleaned and processed historical stock data including Open, High, Low, Close, and Volume.
 
@@ -16,7 +15,7 @@ Built an advanced LSTM (Long Short-Term Memory) model to capture sequential patt
 
 Compared results of ML vs. DL models to evaluate predictive performance.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -26,7 +25,7 @@ TensorFlow / Keras (LSTM model for time series forecasting)
 
 Jupyter Notebook (for interactive analysis)
 
-📊 Key Features
+**📊 Key Features**
 
 ✅ Data Cleaning & Feature Engineering
 ✅ Moving Average & Volatility Analysis
@@ -34,7 +33,7 @@ Jupyter Notebook (for interactive analysis)
 ✅ Deep Learning (LSTM for sequential prediction)
 ✅ Visualizations for trends, predictions, and feature importance
 
-📈 Results
+**📈 Results**
 
 Linear Regression provides interpretable predictions but struggles with sudden market fluctuations.
 
@@ -42,7 +41,7 @@ LSTM model achieves better performance by leveraging sequential patterns in stoc
 
 Demonstrates how combining statistical and deep learning methods can improve financial forecasting.
 
-🚀 Future Improvements
+**🚀 Future Improvements**
 
 Add more technical indicators (RSI, MACD, Bollinger Bands).
 
